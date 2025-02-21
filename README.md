@@ -1,4 +1,4 @@
-# 🏆 Football Match Frontend
+# ⚽ Football Match Frontend
 
 React frontend for managing football clubs, matches, and competitions. Built with React, Tailwind CSS, and Axios, and integrates with a Spring Boot backend.
 
