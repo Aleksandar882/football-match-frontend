@@ -1,47 +1,50 @@
 # 🏆 Football Match Frontend
 
-🚀 React frontend for managing football clubs, matches, and competitions. Built with React, Tailwind CSS, and Axios, and integrates with a Spring Boot backend.
+React frontend for managing football clubs, matches, and competitions. Built with React, Tailwind CSS, and Axios, and integrates with a Spring Boot backend.
 
-⚡ Features
+## 🚀 Features
 
-✅ View and manage football clubs
+- View and manage football clubs
+- Track matches and competitions
+- Add and delete clubs
+- Calculate the winner of a competition
+- Modern Tailwind-styled UI
 
-✅ Track matches and competitions
+## 🛠️ Tech Stack
 
-✅ Add and delete clubs
+- Frontend: React, Vite, Tailwind CSS
+- Backend: Spring Boot (REST API)
+- State Management: React hooks
+- HTTP Client: Axios
 
-✅ Calculate the winner of a competition
+## 🚀 Setup Instructions
 
-✅ Modern Tailwind-styled UI
+1. **Clone the repository**
 
-🛠️ Tech Stack
+   ```sh
+    git clone https://github.com/Aleksandar882/football-match-frontend.git
 
-Frontend: React, Vite, Tailwind CSS
+   ```
 
-Backend: Spring Boot (REST API)
+2. **Navigate to the project folder**
 
-State Management: React hooks
+   ```sh
+   cd football-match-frontend
+   ```
 
-HTTP Client: Axios
+3. **Install Dependencies**
 
-🚀 Setup Instructions
+   ```sh
+   npm install
+   ```
 
-1️⃣ Clone the Repository
-
-git clone https://github.com/yourusername/football-match-frontend.git
-
-cd football-match-frontend
-
-2️⃣ Install Dependencies
-
-npm install
-
-3️⃣ Start the Development Server
-
-npm run dev
+4. **Start the Development Server**
+   ```sh
+   npm run dev
+   ```
 
 Then open http://localhost:5173/ in your browser.
 
-🔗 Related Repositories
+## 🔗 Related Repositories
 
 Backend: [Football Match API](https://github.com/Aleksandar882/football-match-api)
