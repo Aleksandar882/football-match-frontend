@@ -17,7 +17,7 @@ React frontend for managing football clubs, matches, and competitions. Built wit
 - State Management: React hooks
 - HTTP Client: Axios
 
-## 🚀 Setup Instructions
+## 🔧 Setup Instructions
 
 1. **Clone the repository**
 
